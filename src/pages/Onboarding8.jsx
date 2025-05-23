@@ -12,7 +12,7 @@ const SignUp = () => {
     // Simulate signup logic
     setTimeout(() => {
       alert('Sign up successful!');
-      navigate('/'); // Navigate back to login after signup
+      navigate('/sidebar'); // Navigate back to login after signup
       setLoading(false);
     }, 1000);
   };
