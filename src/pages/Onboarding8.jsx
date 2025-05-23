@@ -28,9 +28,9 @@ const SignUp = () => {
           className="w-full border border-gray-300 px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-100"
         />
         <input
-          type="text"
-          name="phone"
-          placeholder="Phone Number"
+          type="email"
+          name="email"
+          placeholder="Email Address"
           className="w-full border border-gray-300 px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 bg-gray-100"
         />
         <input
